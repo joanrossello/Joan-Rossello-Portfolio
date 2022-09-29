@@ -1,4 +1,3 @@
-# Joan Rossello - Portfolio
 Data science & machine learning portfolio comprising projects from 2021/2022.
 
 # [Project 1: Show, Attend and Tell with Transformers](https://github.com/joanrossello/Image-Captioning)
