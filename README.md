@@ -53,13 +53,13 @@ Develop information retrieval models that solve the problem of passage retrieval
 * Compare results between models with and without cross-validation.
 
 
-# [Project 6: ]()
+# [Project 6: Mixture-of-Gaussians for Image Segmentation](https://github.com/joanrossello/Mixtures-of-Gaussians)
 
 
 
-# [Project 7: ]()
+# [Project 7: Homographies and Particle Filters](https://github.com/joanrossello/Homographies-Particle-Filters)
 
 
 
-# [Project 8: ]()
+# [Project 8: Reinforcement Learning](https://github.com/joanrossello/Reinforcement-Learning)
 
