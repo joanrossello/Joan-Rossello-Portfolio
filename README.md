@@ -59,7 +59,3 @@ Develop information retrieval models that solve the problem of passage retrieval
 
 # [Project 7: Homographies and Particle Filters](https://github.com/joanrossello/Homographies-Particle-Filters)
 
-
-
-# [Project 8: Reinforcement Learning](https://github.com/joanrossello/Reinforcement-Learning)
-
