@@ -15,10 +15,6 @@ This project investigates different strategies for detecting bias text in Natura
 # [Project 2: Image Captioning with Transformers](https://github.com/joanrossello/Image-Captioning)
 Image captioning is a now well-established challenge in the Computer Vision/Natural Language Processing community, which consists in generating an accurate description, or caption, of a given input image. This is typically done using a Convolutional Neural Network (CNN) to extract features from the image followed by a language model to sequentially predict an output sentence from these features. This work aims to investigate if by simply using the current state-of-the-art **transformer** architectures for feature extraction and sequence processing, we can train an accurate image captioning network with a limited amount of resources. We also investigate if incorporating the word embeddings and bounding boxes of objects detected in the image in a **multi-task learning** approach, can further improve the model’s accuracy. The models are evaluated on the Flickr8k and Flickr30k datasets using the BLEU metric with beam search.
 
-![](/Images/img1_1.png) ![](/Images/img1_2.png)
-
-The images show example Predictions (P) with 5 potential targets (T1-T5) on the test set with highest BLEU score.
-
 
 # [Project 3: Information Retrieval Models for Passage Re-ranking](https://github.com/joanrossello/Information-Retrieval-Models)
 Develop information retrieval models that solve the problem of passage retrieval, i.e. given a query, return a ranked list of short texts (passages).
@@ -41,8 +37,6 @@ Develop information retrieval models that solve the problem of passage retrieval
 * Use filter visualisation and feature maps to identify the network’s learning process to reproduce results.
 * Assess results with metrics such as pixel accuracy, Intersection-Over-Union (IoU) score, and Dice Coefficients.
 
-![](/Images/U-Net.png)
-
 
 # [Project 5: Dense-Net Regularisation and Cross-Validation](https://github.com/joanrossello/Dense-Net)
 * Implement DenseNet3 with data augmentation using the Cutout algorithm.
@@ -55,7 +49,4 @@ Develop information retrieval models that solve the problem of passage retrieval
 
 # [Project 6: Mixture-of-Gaussians for Image Segmentation](https://github.com/joanrossello/Mixtures-of-Gaussians)
 
-
-
-# [Project 7: Homographies and Particle Filters](https://github.com/joanrossello/Homographies-Particle-Filters)
 
