@@ -1,4 +1,4 @@
-Data science & machine learning portfolio comprising projects from 2021/2022.
+Data science & machine learning portfolio comprising projects from 2022.
 Click on the project titles to be redirected to the respective GitHub repositories.
 
 # [Project 1: A Comparison of Strategies for Detecting Biased Text](https://github.com/joanrossello/Bias-Text-Detection)
