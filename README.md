@@ -7,7 +7,7 @@ This project investigates different strategies for detecting bias text in Natura
 
 * Tokenize text datasets and produce Part-Of-Speech tagging and dependency tagging for bias detection models.
 * Explore neural network classifiers with GloVe word embeddings, and features relating to syntactic and semantic relationships of the word under analysis and its context.
-* Train and test LSTMs, BiLSTMS and transformers for text classification.
+* Train and test LSTMs, BiLSTMs and transformers for text classification.
 * Fine-tune pre-trained large language models such as BERT and BLOOM for bias text detection.
 * Generate graph networks from text data and perform text classification with graph convolutional networks.
 * Show that pre-trained language models display high performance and generalisation in detecting different types of bias, especially when combined with bias-related word embeddings and bidirectional LSTMs.
